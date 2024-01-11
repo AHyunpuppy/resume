@@ -3,7 +3,7 @@
 - 전화번호 : 010-3359-4940
 - 생년월일 : 2000.01.18
 - 교육 : SSAFY 수료 과정 중
-  ![이미지](https://i.namu.wiki/i/fXDC6tkjS6607gZSXSBdzFq_-12PLPWMcmOddg0dsqRq7Nl30Ek1r23BxxOTiERjGP4eyGmJuVPhxhSpOx2GDw.webp)
+- ![이미지](https://i.namu.wiki/i/fXDC6tkjS6607gZSXSBdzFq_-12PLPWMcmOddg0dsqRq7Nl30Ek1r23BxxOTiERjGP4eyGmJuVPhxhSpOx2GDw.webp)
 ---
 
 ## 학력✔
